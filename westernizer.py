@@ -177,10 +177,6 @@ label_height = Cm(0.3 * 0.7)
 
 slide_2 = None
 
-# Add a title slide
-# Center title placeholder
-
-
 # Center subtitle placeholder
 slide_1 = ppt.slides.add_slide(blank_slide_layout)
 
